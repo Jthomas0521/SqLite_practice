@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+soupsieve==2.5
+pip==24.0
+setuptools==59.6.0
+virtualenv==20.24.5
+urllib3==2.0.7
+Faker==23.1.0
